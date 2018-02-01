@@ -8,5 +8,6 @@ program successfully. These inputs include; selecting the raster grid
 of heights file (in row 25); typing in the number of rows and number 
 of columns of the heights raster (in rows 34 and 35 respectively). On 
 launching the model superclass (max gradient.py), the user is expected 
-to activate the Gradient class by running the ‘gradientframework.py’ 
-file before running the model superclass.
+to activate the Reader, Writer and Gradient classes by running the 
+‘fileprocessor.py’ and ‘gradientframework.py’ files before running the 
+model superclass.
